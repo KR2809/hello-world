@@ -1,2 +1,3 @@
 # hello-world
-I am trying new things here
+I want to learn Python
+My journey kind of starts here
